@@ -1,35 +1,15 @@
-# starter-slim
+# Web开发基础
 
-1. [Generate with the same files and folders](https://github.com/rundocs/starter-slim/generate) from this repository
-2. Set up your GitHub Pages to source(`/`)
-3. Now you can view your documentation in your site
+## 课程内容
 
-## site.pages
+{% include list.liquid all=true %}
 
-<!-- prettier-ignore-start -->
+## 评分标准
 
-| source          | link                                                           |
-| --------------- | -------------------------------------------------------------- |
-{% for page in site.pages -%}
-| {{ page.path }} | [{{ page.url | relative_url }}]({{ page.url | relative_url }}) |
-{% endfor %}
+[Spring2021]
 
-<!-- prettier-ignore-end -->
+课程作业: 利用本课程所学内容, 实现一个个人主页的网站(或: 自选题目).
 
-## Documents
+要求: 作业完成过程中, 需要包含HTML5, CSS, JavaScript相关知识的运用.
 
-https://jekyll-rtd-theme.rundocs.io
-
-## Local debug
-
-```sh
-gem install jekyll bundler
-
-bundle install
-
-JEKYLL_GITHUB_TOKEN=blank PAGES_API_URL=http://0.0.0.0 bundle exec jekyll server --livereload
-```
-
-## The license
-
-The theme is available as open source under the terms of the MIT License
+验收: 作业最终提交打包后的源文件, 部署运行说明, 以及项目说明书. 注: 申请优秀评级的学生, 需要准备现场演示.
