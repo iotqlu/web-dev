@@ -22,7 +22,7 @@ Web应用运行于桌面浏览器, 如: Firefox, Chrome, IE, Safari等.
 
 1. 选择一个开发使用的文件夹, 在这个文件夹下新建一个文件夹作为工程目录, 如: webdev.
 1. 打开VS Code, 使用`File -> Add Folder to Workspace`功能将webdev文件夹添加到VS Code中.
-1. 新建一个文件, 命令为: `index.html`, 文件中编写以下代码: 
+1. 新建一个文件, 命名为: `index.html`, 文件中编写以下代码: 
 
     ```html
     <!DOCTYPE HTML>
