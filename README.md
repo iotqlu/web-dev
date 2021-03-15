@@ -16,7 +16,7 @@
 
 ## 作业提交
 
-作业提交地址: https://iot.it.qlu.edu.cn/web-upload
+作业提交地址: https://iot.it.qlu.edu.cn/web-s21
 
 默认用户名: <学号>
 
