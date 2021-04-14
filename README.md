@@ -24,7 +24,7 @@
 
 ## 作业提交
 
-作业提交地址: [https://iot.it.qlu.edu.cn/web-s21](https://iot.it.qlu.edu.cn/web-s21)
+作业提交地址: [https://iot.qlu.edu.cn/web-s21](https://iot.qlu.edu.cn/web-s21)
 
 默认用户名: <学号>
 
@@ -33,7 +33,7 @@
 操作流程:
 
 * 请将作业的代码源文件上传到系统. (支持多文件一起上传)
-* 上传成功后, 访问个人作业网站查看是否生效. 个人作业网站地址: https://iot.it.qlu.edu.cn/web-s21/<学号>
+* 上传成功后, 访问个人作业网站查看是否生效. 个人作业网站地址: https://iot.qlu.edu.cn/web-s21/<学号>
 * 作业互评
     * 展示图片上传
         * `preview.jpg`, 图片尺寸 1280x800 至 1280x900之间. 根据最终版本的显示效果, 保存关键区域截图后, 缩放到指定尺寸范围.
@@ -45,7 +45,7 @@
 ```
 
 ```tips
-例如, 学号为 2019001 的学生对应的网站地址为: https://iot.it.qlu.edu.cn/web-s21/2019001/index.html
+例如, 学号为 2019001 的学生对应的网站地址为: https://iot.qlu.edu.cn/web-s21/2019001/index.html
 ```
 
 ### 随堂作业
