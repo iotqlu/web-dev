@@ -22,6 +22,17 @@
 >[项目说明书模板下载](./assets/project_template.docx)
 >
 
+最终提交作业规范, 在根目录下按以下文件命名规范提交以下三个文件:
+
+- <学号>_code.zip : 作业代码打包压缩文件. 注意: 打包成zip格式, <b>不要打包成rar格式</b>.
+- <学号>_deploy.pdf : 简述网站部署, 运行或打开方式.
+- <学号>_report.pdf : 项目说明书, 导出成pdf格式.
+
+>
+>三个文件一定都要包含自己的学号.
+>
+
+
 ## 作业提交
 
 作业提交地址: [https://iot.qlu.edu.cn/web-s21](https://iot.qlu.edu.cn/web-s21)
